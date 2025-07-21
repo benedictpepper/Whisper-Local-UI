@@ -27,7 +27,7 @@ Self-Hosted: Runs entirely on your local machine. No data is sent to the cloud.
 1. First-Time Installation
 If this is your first time using the tool, you need to install the dependencies.
 
-Download the installWhisper.bat script from this repository.
+Download the WhisperOneClickInstaller.bat script from this repository.
 
 Right-click the file and select "Run as administrator".
 
