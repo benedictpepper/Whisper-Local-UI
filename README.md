@@ -27,7 +27,7 @@ Self-Hosted: Runs entirely on your local machine. No data is sent to the cloud.
 1. First-Time Installation
 If this is your first time using the tool, you need to install the dependencies.
 
-Download the install_whisper.bat script from this repository.
+Download the installWhisper.bat script from this repository.
 
 Right-click the file and select "Run as administrator".
 
@@ -36,7 +36,7 @@ Wait for the script to complete. It will install Python, FFmpeg, PyTorch, and Wh
 
 
 2. Launching the Application
-Double-click the launch_whisper_ui.bat file.
+Double-click the LaunchWhisperUI.bat file.
 
 A command prompt window will open, and the web interface will automatically launch in your default browser at http://127.0.0.1:5000.
 
